@@ -1,4 +1,4 @@
-package org.xmlangel;
+package kr.xmlangel;
 
 public class TestLibrary {
     public void testa(){

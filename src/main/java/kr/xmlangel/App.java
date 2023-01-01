@@ -1,4 +1,4 @@
-package org.xmlangel;
+package kr.xmlangel;
 
 /**
  * Hello world!
